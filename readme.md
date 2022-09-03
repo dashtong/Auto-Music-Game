@@ -19,5 +19,7 @@ I have built a robot with arduino and python to help us press the buttons at the
 
 <br>
 
+
 ## Sample Video
-![](https://media.giphy.com/media/kRREoDSnuVat5qeyYp/giphy-downsized-large.gif)
+![](https://media.giphy.com/media/6zgMVoCXt4sQawLRVj/giphy-downsized-large.gif)
+
