@@ -9,10 +9,10 @@ I have built a robot with arduino and python to help us press the buttons at the
 <br>
 
 ## Usage
-1. Record a full gameplay with the target song and mark down the speed in setting.
+1. Record a full gameplay of the target song and mark down the speed in setting.
 2. Edit the variables' name in ```get_raw_data.py``` and run it to get a txt file that included raw data we need.
 3. Upload the servo program to an arduino nano.
-4. Set up camera that can clearly capture the iPad's full screen.
+4. Set up camera that can clearly capture iPad's full screen.
 5. Edit the variables' name in ```camera.py``` and run it.
 6. Open the calibrating photo in iPad. The screen should show a wrapped stream (a rectangular screen of iPad).
 7. Start a game and Enjoy. ^_^
